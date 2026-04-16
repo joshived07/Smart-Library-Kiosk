@@ -77,7 +77,7 @@ Status  : Book Issued
 | Ishan Waichal |
 | Shreeya Jagtap |
 
-**Department of Computer Science & Engineering**
+**Department of Computer Engineering**
 Marathwada Mitra Mandal's College of Engineering · 2025–26
 
 ---
